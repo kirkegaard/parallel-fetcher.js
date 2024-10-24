@@ -1,12 +1,12 @@
 {
   "name": "parallel-fetcher",
   "version": "1.0.0",
-  "main": "parallel-fetch.js",
+  "main": "parallel-fetcher.js",
   "type": "module",
   "scripts": {
     "test": "NODE_OPTIONS='--experimental-vm-modules' npx jest"
   },
-  "author": "",
+  "author": "Christian Kirkegaard <christian@lowpoly.dk> (https://lowpoly.dk/)",
   "license": "ISC",
   "description": "",
   "devDependencies": {
