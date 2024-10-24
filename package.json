@@ -1,0 +1,15 @@
+{
+  "name": "parallel-fetcher",
+  "version": "1.0.0",
+  "main": "parallel-fetch.js",
+  "type": "module",
+  "scripts": {
+    "test": "NODE_OPTIONS='--experimental-vm-modules' npx jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
